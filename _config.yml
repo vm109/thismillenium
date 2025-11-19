@@ -1,0 +1,6 @@
+title: "this millenium"
+description: "Economics • Global Order • Future Systems"
+theme: minima
+markdown: kramdown
+plugins:
+- jekyll-feed
